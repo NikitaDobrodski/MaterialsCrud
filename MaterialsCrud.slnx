@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Materials.Domain/Materials.Domain.csproj" />
+  <Project Path="Materials.Infrastructure/Materials.Infrastructure.csproj" />
+  <Project Path="Materials.Web/Materials.Web.csproj" />
+  <Project Path="Materials.Wpf/Materials.Wpf.csproj" />
+</Solution>
